@@ -209,7 +209,7 @@ header {
     /* min-height: auto; */
     text-align: center;
     color: #850808;
-    background: /* url("../img/HomePage.svg"), */ url("../img/WhiteAndRed.svg") repeat-y bottom center scroll;
+    background: /* url("../img/HomePage.svg"), */ url("../img/WhiteAndRed2.svg") repeat-y bottom center scroll;
     background-color: #fff;
     background-position: center;
     -webkit-background-size: cover;
@@ -271,6 +271,11 @@ header .header-content .header-content-inner p {
     }
 }
 
+.header-content-whitespace{
+    position: relative;
+    background-color: #fff;
+
+}
 .section-heading {
     margin-top: -20px;
     font-size: 50px;
